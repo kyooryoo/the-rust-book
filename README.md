@@ -2,15 +2,15 @@
 From the official document
 
 ## Get Started
-Download rustup for installation:
+* Download rustup for installation:
 `$ curl --proto '=https' --tlsv1.2 https://sh.rustup.rs -sSf | sh`
-Check version:
+* Check version:
 `$ rustc --version`
-Check local document:
+* Check local document:
 `$ rustup doc`
-Update Rust:
+* Update Rust:
 `$ rustup update`
-Unistall Rust:
+* Unistall Rust:
 `$ rustup self uninstall`
 
 ### Hello World
