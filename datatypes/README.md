@@ -58,6 +58,9 @@ Destructure or using index to access tuple elements.
 An empty tuple *()* is in *unit type* with *unit value*.
 Expression returns *unit value* if no value to return.
 
-## Array
-Array also has fixed length but only one type for all.
+## Arrays
+Array has fixed number of items in the same data type.
 Vector is mutable array and will be introduced later.
+
+## Struct
+Theare are three types of structs: unit, tuple, and C

@@ -16,7 +16,7 @@ fn main() {
     let x = 5;
     let x = x + 1;
     {
-        // the seond shadow only lives in the inner scope
+        // the second shadow only lives in the inner scope
         let x = x * 2;
         println!("The value of x in the inner scope is: {}", x);
     }
